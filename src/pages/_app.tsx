@@ -1,17 +1,11 @@
 import '@/styles/globals.css'
-import { ThemeProvider, useTheme } from 'next-themes';
+import { ThemeProvider } from 'next-themes';
 import Layout from '@/components/Layout/Layout';
 import type { AppProps } from 'next/app'
 import NextNProgress from "nextjs-progressbar";
 import { config } from '@fortawesome/fontawesome-svg-core'
-import TailwindToaster from '@/components/Toast/Toast';
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
-
-// Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/free-mode';
-import 'swiper/css/pagination';
 
 config.autoAddCss = false;
 
@@ -45,7 +39,6 @@ const App = ({ Component, pageProps }: AppProps) => {
       <div className={`transition-opacity duration-500 ${isTransitioning ? 'opacity-50' : 'opacity-100'}`}>
         <Layout>
           <NextNProgress height={2} color="#17FFAC" options={{ easing: 'ease', speed: 500 }} />
-          <TailwindToaster />
           <Component {...pageProps} />
         </Layout>
       </div>
