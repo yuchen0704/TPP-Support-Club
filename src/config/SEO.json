@@ -1,0 +1,56 @@
+{
+    "default": {
+      "title": "台灣民眾黨司法革命後援會",
+      "description": "一個想要改變台灣，帶領台灣前進的民眾黨司法革命後援會！",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    },
+    "Index": {
+      "title": "台灣民眾黨司法革命後援會",
+      "description": "一個想要改變台灣，帶領台灣前進的民眾黨司法革命後援會！",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    },
+    "NotFound": {
+      "title": "404頁面找不到｜台灣民眾黨司法革命後援會",
+      "description": "找不到這個頁面喔！",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    },
+    "About": {
+      "title": "關於我們｜台灣民眾黨司法革命後援會",
+      "description": "一個想要改變台灣的後援會",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    },
+    "Community": {
+      "title": "加入社群｜台灣民眾黨司法革命後援會",
+      "description": "加入我們，跟著小草一起打拼！",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    },
+    "Contact": {
+      "title": "聯絡我們｜台灣民眾黨司法革命後援會",
+      "description": "需要幫助嗎？聯絡「台灣民眾黨司法革命後援會」。",
+      "image": "/",
+      "type": "website",
+      "keyword": "民眾黨,司法改革,國家,柯文哲,黃國昌,民進黨,國民黨,時代力量",
+      "author": "yuchen",
+      "copyright": "yuchen"
+    }
+  }
